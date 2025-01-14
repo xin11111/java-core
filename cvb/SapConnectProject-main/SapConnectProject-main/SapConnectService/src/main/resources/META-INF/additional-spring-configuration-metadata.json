@@ -1,0 +1,32 @@
+{"properties": [
+	{
+	  "name": "sap.ashost",
+	  "type": "java.lang.String",
+	  "description": "SAP Application server"
+  	},
+  	{
+	  "name": "sap.sysnr",
+	  "type": "java.lang.String",
+	  "description": "SAP Instance number"
+  	},
+  	{
+	  "name": "sap.client",
+	  "type": "java.lang.String",
+	  "description": "SAP Client"
+  	},
+  	{
+	  "name": "sap.user",
+	  "type": "java.lang.String",
+	  "description": "SAP User"
+  	},
+  	{
+	  "name": "sap.password",
+	  "type": "java.lang.String",
+	  "description": "SAP password"
+  	},
+  	{
+	  "name": "sap.lang",
+	  "type": "java.lang.String",
+	  "description": "SAP language"
+  	}
+]}
